@@ -6,7 +6,8 @@ namespace PhotoPrinter
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello World!");
+			//Dies ist ein erster Test
+			Console.WriteLine ("Hello World2!");
 
 			Console.ReadKey ();
 		}
